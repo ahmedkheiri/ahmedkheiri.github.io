@@ -1,0 +1,44 @@
+[
+  {
+    "Name": "Prioritize IT projects",
+    "Description": "Establish the overall priority of an IT project for the University.",
+    "Children": ["Strategic impact", "Financial impact", "Customer impact", "Project risk", "Feasibility"]
+  },
+  {
+    "Name": "Strategic impact",
+    "Description": "Impact in terms of alignment with the University's overall and IT strategies, customer intimacy and product/service excellence.",
+    "Children": ["100 Gbps Network Border", "Science De-militarized Zone (DMZ) Network", "Cloud-based Enterprise Resource Planning (ERP) Tool"]
+  },
+  {
+    "Name": "Financial impact",
+    "Description": "Impact in terms of operational and IT cost reduction and funding / cost recovery.",
+    "Children": ["100 Gbps Network Border", "Science De-militarized Zone (DMZ) Network", "Cloud-based Enterprise Resource Planning (ERP) Tool"]
+  },
+  {
+    "Name": "Customer impact",
+    "Description": "Impact on students, staff and research at the University.",
+    "Children": ["100 Gbps Network Border", "Science De-militarized Zone (DMZ) Network", "Cloud-based Enterprise Resource Planning (ERP) Tool"]
+  },
+  {
+    "Name": "Project risk",
+    "Description": "Project risk in terms of organisational and technical complexity.",
+    "Children": ["100 Gbps Network Border", "Science De-militarized Zone (DMZ) Network", "Cloud-based Enterprise Resource Planning (ERP) Tool"]
+  },
+  {
+    "Name": "Feasibility",
+    "Description": "Project feasibility in terms of alignment with architecture and capability.",
+    "Children": ["100 Gbps Network Border", "Science De-militarized Zone (DMZ) Network", "Cloud-based Enterprise Resource Planning (ERP) Tool"]
+  },
+  {
+    "Name": "100 Gbps Network Border",
+    "Description": "The University currently has two (2) 10 Gbps connections to the border network. Increasingly, research grants show preference to universities or entities that have 100 Gbps capabilities to allow for improved collaboration and transfer of data between various research entities around the world."
+  },
+  {
+    "Name": "Science De-militarized Zone (DMZ) Network",
+    "Description": "The University currently passes all network traffic through network security hardware such as firewalls and intrusion prevention systems. This hardware can impede the flow of network traffic and slow transfers of large scientific research datasets. A science DMZ network removes some of these barriers allowing for large datasets to move more quickly and at scheduled times, minimizing the impact on other network traffic."
+  },
+  {
+    "Name": "Cloud-based Enterprise Resource Planning (ERP) Tool",
+    "Description": "The University currently uses several tools for enterprise resource planning. These tools have served the University well, but industry and product advancements have left the current system nearing end of life. A cloud-based ERP tool would move the University forward into a new set of tools to manage university resources."
+  }
+]
