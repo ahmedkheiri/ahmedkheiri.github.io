@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Buy a laptop",
+    "Description": "Select the best option for buy a laptop.",
+    "Children": [ "Price", "Performance", "Battery life" ]
+  },
+  {
+    "Name": "Price",
+    "Description": "Evaluation based on price.",
+    "Children": [ "Dell XPS", "MacBook Air", "Lenovo ThinkPad" ]
+  },
+  {
+    "Name": "Performance",
+    "Description": "Evaluation based on performance.",
+    "Children": [ "Dell XPS", "MacBook Air", "Lenovo ThinkPad" ]
+  },
+  {
+    "Name": "Battery life",
+    "Description": "Evaluation based on battery life.",
+    "Children": [ "Dell XPS", "MacBook Air", "Lenovo ThinkPad" ]
+  },
+  {
+    "Name": "Dell XPS",
+    "Description": "Dell XPS is one of the available options."
+  },
+  {
+    "Name": "MacBook Air",
+    "Description": "MacBook Air is one of the available options."
+  },
+  {
+    "Name": "Lenovo ThinkPad",
+    "Description": "Lenovo ThinkPad is one of the available options."
+  }
+]

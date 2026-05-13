@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Choose a movie",
+    "Description": "Select the best option for choose a movie.",
+    "Children": [ "Story", "Visuals", "Soundtrack" ]
+  },
+  {
+    "Name": "Story",
+    "Description": "Evaluation based on story.",
+    "Children": [ "Inception", "Interstellar", "Avatar" ]
+  },
+  {
+    "Name": "Visuals",
+    "Description": "Evaluation based on visuals.",
+    "Children": [ "Inception", "Interstellar", "Avatar" ]
+  },
+  {
+    "Name": "Soundtrack",
+    "Description": "Evaluation based on soundtrack.",
+    "Children": [ "Inception", "Interstellar", "Avatar" ]
+  },
+  {
+    "Name": "Inception",
+    "Description": "Inception is one of the available options."
+  },
+  {
+    "Name": "Interstellar",
+    "Description": "Interstellar is one of the available options."
+  },
+  {
+    "Name": "Avatar",
+    "Description": "Avatar is one of the available options."
+  }
+]

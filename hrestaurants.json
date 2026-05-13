@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Choose a restaurant",
+    "Description": "Select the best option for choose a restaurant.",
+    "Children": [ "Price", "Food quality", "Location" ]
+  },
+  {
+    "Name": "Price",
+    "Description": "Evaluation based on price.",
+    "Children": [ "Pizza Palace", "Sushi World", "Burger House" ]
+  },
+  {
+    "Name": "Food quality",
+    "Description": "Evaluation based on food quality.",
+    "Children": [ "Pizza Palace", "Sushi World", "Burger House" ]
+  },
+  {
+    "Name": "Location",
+    "Description": "Evaluation based on location.",
+    "Children": [ "Pizza Palace", "Sushi World", "Burger House" ]
+  },
+  {
+    "Name": "Pizza Palace",
+    "Description": "Pizza Palace is one of the available options."
+  },
+  {
+    "Name": "Sushi World",
+    "Description": "Sushi World is one of the available options."
+  },
+  {
+    "Name": "Burger House",
+    "Description": "Burger House is one of the available options."
+  }
+]

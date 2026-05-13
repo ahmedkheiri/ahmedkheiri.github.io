@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Buy a car",
+    "Description": "Select the best option for buy a car.",
+    "Children": [ "Fuel economy", "Comfort", "Safety" ]
+  },
+  {
+    "Name": "Fuel economy",
+    "Description": "Evaluation based on fuel economy.",
+    "Children": [ "Toyota Corolla", "Honda Civic", "Ford Focus" ]
+  },
+  {
+    "Name": "Comfort",
+    "Description": "Evaluation based on comfort.",
+    "Children": [ "Toyota Corolla", "Honda Civic", "Ford Focus" ]
+  },
+  {
+    "Name": "Safety",
+    "Description": "Evaluation based on safety.",
+    "Children": [ "Toyota Corolla", "Honda Civic", "Ford Focus" ]
+  },
+  {
+    "Name": "Toyota Corolla",
+    "Description": "Toyota Corolla is one of the available options."
+  },
+  {
+    "Name": "Honda Civic",
+    "Description": "Honda Civic is one of the available options."
+  },
+  {
+    "Name": "Ford Focus",
+    "Description": "Ford Focus is one of the available options."
+  }
+]
