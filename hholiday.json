@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a holiday destination",
+    "Description": "Select the best option for choose a holiday destination.",
+    "Children": ["Weather", "Cost"]
+  },
+  {
+    "Name": "Weather",
+    "Description": "Evaluation based on weather.",
+    "Children": ["Spain", "Italy", "Greece"]
+  },
+  {
+    "Name": "Cost",
+    "Description": "Evaluation based on cost.",
+    "Children": ["Spain", "Italy", "Greece"]
+  },
+  {
+    "Name": "Spain",
+    "Description": "Spain option."
+  },
+  {
+    "Name": "Italy",
+    "Description": "Italy option."
+  },
+  {
+    "Name": "Greece",
+    "Description": "Greece option."
+  }
+]

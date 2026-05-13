@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a university",
+    "Description": "Select the best option for choose a university.",
+    "Children": ["Ranking", "Location"]
+  },
+  {
+    "Name": "Ranking",
+    "Description": "Evaluation based on ranking.",
+    "Children": ["University A", "University B", "University C"]
+  },
+  {
+    "Name": "Location",
+    "Description": "Evaluation based on location.",
+    "Children": ["University A", "University B", "University C"]
+  },
+  {
+    "Name": "University A",
+    "Description": "University A option."
+  },
+  {
+    "Name": "University B",
+    "Description": "University B option."
+  },
+  {
+    "Name": "University C",
+    "Description": "University C option."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a phone",
+    "Description": "Select the best option for choose a phone.",
+    "Children": ["Camera", "Battery"]
+  },
+  {
+    "Name": "Camera",
+    "Description": "Evaluation based on camera.",
+    "Children": ["Phone A", "Phone B", "Phone C"]
+  },
+  {
+    "Name": "Battery",
+    "Description": "Evaluation based on battery.",
+    "Children": ["Phone A", "Phone B", "Phone C"]
+  },
+  {
+    "Name": "Phone A",
+    "Description": "Phone A option."
+  },
+  {
+    "Name": "Phone B",
+    "Description": "Phone B option."
+  },
+  {
+    "Name": "Phone C",
+    "Description": "Phone C option."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a laptop",
+    "Description": "Select the best option for choose a laptop.",
+    "Children": ["Performance", "Price"]
+  },
+  {
+    "Name": "Performance",
+    "Description": "Evaluation based on performance.",
+    "Children": ["Laptop A", "Laptop B", "Laptop C"]
+  },
+  {
+    "Name": "Price",
+    "Description": "Evaluation based on price.",
+    "Children": ["Laptop A", "Laptop B", "Laptop C"]
+  },
+  {
+    "Name": "Laptop A",
+    "Description": "Laptop A option."
+  },
+  {
+    "Name": "Laptop B",
+    "Description": "Laptop B option."
+  },
+  {
+    "Name": "Laptop C",
+    "Description": "Laptop C option."
+  }
+]

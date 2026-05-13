@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a coffee shop",
+    "Description": "Select the best option for choose a coffee shop.",
+    "Children": ["Coffee quality", "Atmosphere"]
+  },
+  {
+    "Name": "Coffee quality",
+    "Description": "Evaluation based on coffee quality.",
+    "Children": ["Cafe A", "Cafe B", "Cafe C"]
+  },
+  {
+    "Name": "Atmosphere",
+    "Description": "Evaluation based on atmosphere.",
+    "Children": ["Cafe A", "Cafe B", "Cafe C"]
+  },
+  {
+    "Name": "Cafe A",
+    "Description": "Cafe A option."
+  },
+  {
+    "Name": "Cafe B",
+    "Description": "Cafe B option."
+  },
+  {
+    "Name": "Cafe C",
+    "Description": "Cafe C option."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a car",
+    "Description": "Select the best option for choose a car.",
+    "Children": ["Comfort", "Fuel economy"]
+  },
+  {
+    "Name": "Comfort",
+    "Description": "Evaluation based on comfort.",
+    "Children": ["Car A", "Car B", "Car C"]
+  },
+  {
+    "Name": "Fuel economy",
+    "Description": "Evaluation based on fuel economy.",
+    "Children": ["Car A", "Car B", "Car C"]
+  },
+  {
+    "Name": "Car A",
+    "Description": "Car A option."
+  },
+  {
+    "Name": "Car B",
+    "Description": "Car B option."
+  },
+  {
+    "Name": "Car C",
+    "Description": "Car C option."
+  }
+]

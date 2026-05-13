@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a pet",
+    "Description": "Select the best option for choose a pet.",
+    "Children": ["Maintenance", "Friendliness"]
+  },
+  {
+    "Name": "Maintenance",
+    "Description": "Evaluation based on maintenance.",
+    "Children": ["Dog", "Cat", "Fish"]
+  },
+  {
+    "Name": "Friendliness",
+    "Description": "Evaluation based on friendliness.",
+    "Children": ["Dog", "Cat", "Fish"]
+  },
+  {
+    "Name": "Dog",
+    "Description": "Dog option."
+  },
+  {
+    "Name": "Cat",
+    "Description": "Cat option."
+  },
+  {
+    "Name": "Fish",
+    "Description": "Fish option."
+  }
+]

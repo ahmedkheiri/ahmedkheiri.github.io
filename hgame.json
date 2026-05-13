@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a game console",
+    "Description": "Select the best option for choose a game console.",
+    "Children": ["Games", "Price"]
+  },
+  {
+    "Name": "Games",
+    "Description": "Evaluation based on games.",
+    "Children": ["Console A", "Console B", "Console C"]
+  },
+  {
+    "Name": "Price",
+    "Description": "Evaluation based on price.",
+    "Children": ["Console A", "Console B", "Console C"]
+  },
+  {
+    "Name": "Console A",
+    "Description": "Console A option."
+  },
+  {
+    "Name": "Console B",
+    "Description": "Console B option."
+  },
+  {
+    "Name": "Console C",
+    "Description": "Console C option."
+  }
+]

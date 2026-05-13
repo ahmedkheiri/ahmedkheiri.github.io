@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a restaurant",
+    "Description": "Select the best option for choose a restaurant.",
+    "Children": ["Food quality", "Price"]
+  },
+  {
+    "Name": "Food quality",
+    "Description": "Evaluation based on food quality.",
+    "Children": ["Italian Place", "Burger House", "Sushi Bar"]
+  },
+  {
+    "Name": "Price",
+    "Description": "Evaluation based on price.",
+    "Children": ["Italian Place", "Burger House", "Sushi Bar"]
+  },
+  {
+    "Name": "Italian Place",
+    "Description": "Italian Place option."
+  },
+  {
+    "Name": "Burger House",
+    "Description": "Burger House option."
+  },
+  {
+    "Name": "Sushi Bar",
+    "Description": "Sushi Bar option."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Choose a movie",
+    "Description": "Select the best option for choose a movie.",
+    "Children": ["Story", "Visual effects"]
+  },
+  {
+    "Name": "Story",
+    "Description": "Evaluation based on story.",
+    "Children": ["Movie A", "Movie B", "Movie C"]
+  },
+  {
+    "Name": "Visual effects",
+    "Description": "Evaluation based on visual effects.",
+    "Children": ["Movie A", "Movie B", "Movie C"]
+  },
+  {
+    "Name": "Movie A",
+    "Description": "Movie A option."
+  },
+  {
+    "Name": "Movie B",
+    "Description": "Movie B option."
+  },
+  {
+    "Name": "Movie C",
+    "Description": "Movie C option."
+  }
+]
