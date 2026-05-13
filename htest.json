@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "Choose a holiday destination",
+    "Description": "Select the best destination for a summer holiday.",
+    "Children": ["Cost", "Weather", "Activities"]
+  },
+
+  {
+    "Name": "Cost",
+    "Description": "Overall affordability of the destination.",
+    "Children": ["Spain", "Italy", "Greece"]
+  },
+
+  {
+    "Name": "Weather",
+    "Description": "Quality of the weather during the holiday.",
+    "Children": ["Spain", "Italy", "Greece"]
+  },
+
+  {
+    "Name": "Activities",
+    "Description": "Availability of attractions and activities.",
+    "Children": ["Spain", "Italy", "Greece"]
+  },
+
+  {
+    "Name": "Spain",
+    "Description": "A popular holiday destination with beaches and nightlife."
+  },
+
+  {
+    "Name": "Italy",
+    "Description": "Known for history, food and cultural attractions."
+  },
+
+  {
+    "Name": "Greece",
+    "Description": "Famous for islands, scenery and warm weather."
+  }
+]
