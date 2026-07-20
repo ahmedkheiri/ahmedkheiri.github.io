@@ -1,0 +1,102 @@
+[
+  {
+    "Id": "000e3c3514c8e80bc12c7cde4f4a341c",
+    "Name": "Animal Shape Storage Stool",
+    "Brand": "Carl Artbay Stools",
+    "Price": 276.76,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/41%2BE9X7AFUL._.jpg",
+    "Active": true,
+    "Categories": ["Furniture"],
+    "Description": "This Storage Ottoman Is Finely Crafted With Superior Faux Leather & Quality Mdf, The After-set-up Construction Is Sturdy & Solid, Decorative Appearance Matches Your Interior Decor & Furniture. It Can Be Used As: Storage Chest/Trunk Sundries Finally Has Somewhere To Go, No Matter Blankets, Cushions, Clothes, Or Remotes, Books... An Easy Solution To Organize Your Working And Living environment. It Is Sturdy As A Bench To Be Placed At The Entrance Or closet. You May Sit On It To Put On Or Take Off Your shoes. Tired After Whole days' Work? Here Comes A Nice Place To Rest Your Feet On While Sitting On couch. Puppies May Use It To Step Onto Your Bed Or Watch Out Of The window. With Ottoman Tray, It Becomes An Ottoman Coffee Table To Place Drinks Or foods. We Have A Variety Of Folding Storage Ottomans In Size And Color, Simply Search Storage Ottoman To Find more. Specifications: - Upholstery Material: Faux Leather/Pluch/Wood - Seater Filling Material: High Resilence Sponge - Product Size: - Product Weight: 6kg. Package Contents: - 1 X Folding Storage Ottoman."
+  },
+  {
+    "Id": "2e41a5597d493e63b5cfb43071008f75",
+    "Name": "Coffee Stool with Backrest",
+    "Brand": "Amadon",
+    "Price": 156.71,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/31sciL4h0gL._.jpg",
+    "Active": false,
+    "Categories": ["Furniture"],
+    "Description": "Your support is our greatest motivation, welcome to buy! Product Name: Bar Chair. Color: light gray, dark black, orange. Product category: Dining chair Applicable occasions: hotel, bar, restaurant, living room. Applicable age: adult. Material: Fabric Iron. Internal filler: high elastic foam sponge. Style: European. Frame: metal skeleton. According to the ergonomic design, the L-shape fits the back curve and relieves fatigue to the lumbar support. Note: Due to differences between the different displays, the image may not reflect the actual color of the project. If you have any questions or problems, please feel free to contact us by email and we will get back to you within 24 hours."
+  },
+  {
+    "Id": "832a3f7628865c013ac88f0cf0a6b078",
+    "Name": "Cushion Cover (18x18 Inch) - Set of 2 Pcs",
+    "Brand": "RADANYA",
+    "Price": 15.91,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/51n3-%2Bc9MNL._.jpg",
+    "Active": true,
+    "Categories": ["Home Textiles"],
+    "Description": "Digitally Printed Cushion Cover in Polyester fabric. Lab Certified for 1. Color Fastness 2. Stability to washing & Rubbing 3. Good Seam Strength. 4. Cushion cover has Quilted Front Overlap Back. A Beautiful Gift for your loved ones. Custom Policy : Customer may be charged custom duty/taxes as per the import laws of the receiving country, which will be payable by the customer at the time of delivery to the carrier company. Shipper will not be responsible for any custom duty."
+  },
+  {
+    "Id": "793b2d914699622f979c3abbe2e3167e",
+    "Name": "Doormat 23.6 * 15.7 inch",
+    "Brand": "Baseball hat shop",
+    "Price": 8.93,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/518MQTFiAcL._.jpg",
+    "Active": true,
+    "Categories": ["Home Decor"],
+    "Description": "Custom unique doormats to decorate your home. These amazing machine washable doormats are ideal for all doorsteps. Dry wet feet, grab dirt, dust and grime! Furthermore, these make great workstation mats and are perfect for use as office indoor/outdoor mats. And it's in durable heat-resistant non-woven fabric top, backed with a neoprene rubber non-slip backing. Choose your favorite style to make your home more unique."
+  },
+  {
+    "Id": "6cdca831f618544a68b123caaf7a5d08",
+    "Name": "Exquisite Soap Dish",
+    "Brand": "Royare",
+    "Price": 80.32,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/41NU0TNCrKL._.jpg",
+    "Active": true,
+    "Categories": ["Bath", "Accessories"],
+    "Description": "Small and light. Keep the soap dry and easy to reach. Material: resin. Style: simplicity. It is easy to use soap. Suitable for any style toilet and kitchen."
+  },
+  {
+    "Id": "ce0defc75dacffa42729da7fd606b081",
+    "Name": "Metal Sign 12x12 Inches",
+    "Brand": "Cheyan",
+    "Price": 8.70,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/515bexFVmuL._.jpg",
+    "Active": true,
+    "Categories": ["Home Decor"],
+    "Description": "At Cheyan, we are dedicated to providing beautifully-printed metal signs, pillows, mugs etc. at fair prices, created with responsible and eco-friendly production practices. We value fair employment, transparent manufacturing methods, and sound working conditions at all of our locations worldwide. After Sales Service: If there is anything we can help you, please feel free to contact us at any time and we will continually provide full support. Please rest assured that we will value every customer highly and do our utmost to serve you. Attention: actual color may slightly vary from the picture owing to lighting effects and monitor settings, thanks for your understanding!"
+  },
+  {
+    "Id": "5875d0abd012ecc3e5208beacff654df",
+    "Name": "Pillowcase 50x50cm",
+    "Brand": "WEIANG",
+    "Price": 6.26,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/61Fz%2Bait5nL._.jpg",
+    "Active": true,
+    "Categories": ["Home Textiles"],
+    "Description": "Thank you for your love of home life. WEIANG is a home brand dedicated to improving the taste of life, designing and producing cushion covers, floor mats, tapestries, etc. WEIANG's product designs are diverse and stylish, adapting to a variety of scenes such as musical instrument stores, schools, weddings, parties, studios, coffee shops and more. Welcome to cooperate with wholesale and customization. Specifications: Material: Polyester. Fabric: Flannel. Shape: Square. Product weight: about 120g. Product Size (L x W ): about 50cm x 50cm/19.68inch x 19.68inch. Package Contents: 1 x Cushion Cover (the pillow inner is not included). Please allow slight deviation for the color and measurement!"
+  },
+  {
+    "Id": "2b103e41e1803e248ca0e66c506635a2",
+    "Name": "Small Travel Cosmetic Bag",
+    "Brand": "Longjet",
+    "Price": 9.34,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/41NSNt%2B6tCL._.jpg",
+    "Active": true,
+    "Categories": ["Accessories"],
+    "Description": "Fashion small transparent cosmetic case."
+  },
+  {
+    "Id": "fccb4a34e8b518f5104cc7df686c9df7",
+    "Name": "Soft Towel 13x29 inch",
+    "Brand": "DIYthinker",
+    "Price": 10.54,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/41TcKZs4RzL._.jpg",
+    "Active": true,
+    "Categories": ["Bath"],
+    "Description": "Size: 13 x 29 Inch. Classification: Towel. Feature: Full color printing; Fast drying, soft and highly absorbent; Turn your bathroom into your own personal oasis with this towel perfect for drying you off in style. Material: Superfine fiber. Package Quantity: 1 x towel."
+  },
+  {
+    "Id": "e8b01edd2896db12cdcb85b199e89d94",
+    "Name": "Wall-Mounted Bathroom Mirror",
+    "Brand": "WFW",
+    "Price": 195.48,
+    "Image": "https://images-na.ssl-images-amazon.com/images/I/41fH57V4BCL._.jpg",
+    "Active": true,
+    "Categories": ["Bath", "Makeup"],
+    "Description": "Name: Mirror quantity: 1. Color: multicolor. Material: aluminum. Specifications: 50x70cm, 60x70cm, 60x80cm. Product description: 1. In order to ensure that the product can be sent to your hands in good condition, we will carefully handle it when packaging. If the mirror you received is broken, please contact us in time. 2. The product may have a slight color difference, please refer to the actual product. Because it is measured by hand, there may be an error of 2-3 cm in size."
+  }
+]
