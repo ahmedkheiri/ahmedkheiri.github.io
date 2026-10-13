@@ -1,0 +1,246 @@
+
+:root {
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    color: #f5f7fa;
+    background: #0c1117;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+body {
+    display: grid;
+    grid-template-rows: 64px minmax(0, 1fr) 52px;
+    background: radial-gradient(circle at 50% 30%, #1c2733, #0c1117 65%);
+}
+
+header, footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    background: #111820;
+}
+
+header {
+    border-bottom: 1px solid #273442;
+}
+
+header div:first-child {
+    display: flex;
+    gap: 14px;
+    align-items: baseline;
+}
+
+header span {
+    color: #aab7c4;
+    font-size: .9rem;
+}
+
+.brand {
+    font-size: .88rem;
+    color: #dce5ec;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr) 64px;
+    align-items: center;
+    min-height: 0;
+    padding: 18px;
+}
+
+.nav {
+    height: 76px;
+    border: 0;
+    background: transparent;
+    color: #aab7c4;
+    font-size: 3.2rem;
+    cursor: pointer;
+}
+
+.nav:hover {
+    color: #fff;
+}
+
+.nav:disabled {
+    opacity: .18;
+    cursor: default;
+}
+
+#stage {
+    position: relative;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+    box-shadow: 0 18px 55px #0009;
+    background: #fff;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    max-width: 100%;
+    max-height: calc(100vh - 170px);
+    width: auto;
+    height: auto;
+    pointer-events: none;
+}
+
+#watermarks {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.wm {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 120%;
+    transform: translate(-50%, -50%) rotate(-24deg);
+    text-align: center;
+    font-weight: 700;
+    font-size: clamp(18px, 2.2vw, 34px);
+    letter-spacing: .04em;
+    color: rgba(20, 32, 45, .14);
+}
+
+.wm.small {
+    top: 74%;
+    font-size: clamp(11px, 1.1vw, 17px);
+    color: rgba(20, 32, 45, .18);
+}
+
+footer {
+    border-top: 1px solid #273442;
+    font-size: .82rem;
+    color: #aab7c4;
+    gap: 16px;
+}
+
+footer span:nth-child(2) {
+    text-align: center;
+    flex: 1;
+}
+
+button#full {
+    border: 1px solid #425366;
+    border-radius: 6px;
+    padding: 7px 11px;
+    background: #18222d;
+    color: #e8eef3;
+    cursor: pointer;
+}
+
+#notice {
+    position: fixed;
+    left: 50%;
+    bottom: 66px;
+    transform: translateX(-50%) translateY(20px);
+    padding: 10px 16px;
+    background: #202c38;
+    color: #fff;
+    border: 1px solid #435467;
+    border-radius: 8px;
+    opacity: 0;
+    pointer-events: none;
+    transition: .2s;
+    z-index: 10;
+    font-size: .85rem;
+}
+
+#notice.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* Mobile layout */
+@media (max-width: 760px) {
+    body {
+        grid-template-rows: 54px minmax(0, 1fr) 46px;
+    }
+
+    header {
+        padding: 0 12px;
+    }
+
+    header span, .brand {
+        display: none;
+    }
+
+    main {
+        grid-template-columns: 40px minmax(0, 1fr) 40px;
+        padding: 8px;
+    }
+
+    canvas {
+        max-height: calc(100vh - 125px);
+    }
+
+    footer {
+        padding: 0 10px;
+    }
+
+    footer span:nth-child(2) {
+        display: none;
+    }
+
+    .nav {
+        font-size: 2.4rem;
+    }
+}
+
+html:fullscreen {
+    width: 100%;
+    height: 100%;
+    background: #0c1117;
+}
+
+html:fullscreen body {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 64px minmax(0, 1fr) 52px;
+}
+
+html:fullscreen main {
+    min-height: 0;
+}
+
+html:fullscreen #stage {
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+html:fullscreen canvas {
+    max-width: 100%;
+    max-height: calc(100vh - 170px);
+}
+
+@media (max-width: 760px) {
+    html:fullscreen body {
+        grid-template-rows: 54px minmax(0, 1fr) 46px;
+    }
+
+    html:fullscreen canvas {
+        max-height: calc(100vh - 125px);
+    }
+}
+
+@media print {
+    html, body {
+        display: none !important;
+    }
+}
