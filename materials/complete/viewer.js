@@ -20,7 +20,6 @@
 
     const pad = n => String(n).padStart(2, '0');
 
-    /* Watermarks */
     function watermark() {
         const w = document.getElementById('watermarks');
 
@@ -38,7 +37,6 @@
         }
     }
 
-    /* Show notice */
     function showNotice() {
         notice.classList.add('show');
 

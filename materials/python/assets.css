@@ -165,7 +165,6 @@ button#full {
     transform: translateX(-50%) translateY(0);
 }
 
-/* Mobile layout */
 @media (max-width: 760px) {
     body {
         grid-template-rows: 54px minmax(0, 1fr) 46px;

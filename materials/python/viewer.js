@@ -82,7 +82,6 @@
         img.src = `slides/slide-${pad(n)}.jpg`;
     }
 
-    /* Navigation */
     prev.onclick = () => render(current - 1);
     next.onclick = () => render(current + 1);
 
